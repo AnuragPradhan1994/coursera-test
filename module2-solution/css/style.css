@@ -1,6 +1,15 @@
 h1{
 	color: black;
-	text-decoration-line: inherit;
 	text-align: center;
+}
+h2
+{
+  border: 1px solid black;
+  float: top-right;
+
+}
+section
+{
+	float: right;
 }
 
